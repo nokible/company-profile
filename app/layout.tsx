@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
  * 브라우저 탭에 표시되는 제목(title)과 검색 엔진에 노출될 설명(description)을 정의합니다.
  */
 export const metadata: Metadata = {
-  title: "디엠팩 (Dmpack) - 시스템과 프로세스의 혁신",
-  description: "최적화된 물류 및 시스템 지원을 통해 비즈니스의 성공을 돕는 디엠팩입니다.",
+  title: "디엠팩 (Dmpack) - 스마트 물류 솔루션",
+  description: "DMPACK, 수출포장 전문기업, 경상북도 구미시 산호대로 230 디엠팩, tel: 054-464-7220, email: dmpack@dmpack.co.kr",
 };
 /*
  * [루트 레이아웃 컴포넌트]
