@@ -28,7 +28,7 @@ const nextConfig: NextConfig = {
    * (예: GitHub 저장소 이름이 company-profile 이라면 basePath: "/company-profile")
    * 나중에 구매하신 커스텀 도메인을 바로 연결할 예정이시라면 이 부분은 주석 처리 그대로 두셔도 무방합니다.
    */
-  basePath: "/company-profile",
+  //basePath: "/company-profile",
 };
 
 export default nextConfig;
