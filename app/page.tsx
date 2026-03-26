@@ -71,7 +71,7 @@ export default function Home() {
             <p className="text-lg md:text-xl text-blue-100 mb-10 leading-relaxed font-light">
               디엠팩은 고도화된 자체 WMS(창고관리시스템)를 통해 입고부터 출하까지의 <br className="hidden md:block" />
               전 과정을 투명하게 관리하는 수출 포장 전문 기업입니다. <br className="hidden md:block" />
-              현업에 최적화된 맞춤형 시스템으로 오차 없는 정확성과 압도적인 업무 효율을 제공합니다.
+              현업에 최적화된 맞춤형 시스템으로 오차 없는 정확성과 극대화된 업무 효율을 제공합니다.
             </p>
             {/* [업데이트] 버튼 그룹: 버튼 두 개를 나란히 배치합니다. (모바일에서는 세로 배치) */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-10">
@@ -183,7 +183,7 @@ export default function Home() {
                 <div>
                   <h4 className="text-xl font-bold mb-2 text-gray-800">철저한 보안 및 안전 시설</h4>
                   <p className="text-gray-600 leading-relaxed">
-                    550평 규모의 넓은 창고에 Full HD급 CCTV 26대와 24시간 무인 경비시스템을 가동하고 있습니다. 30억 화재보험 가입으로 고객의 자산을 끝까지 안전하게 보호합니다.
+                    550평 규모의 넓은 창고에 Full HD급 CCTV 26대와 24시간 무인 경비시스템을 가동하고 있으며, 별도 화재보험 가입으로 고객의 자산을 끝까지 안전하게 보호하고 있습니다.
                   </p>
                 </div>
               </div>
