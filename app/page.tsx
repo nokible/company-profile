@@ -157,7 +157,7 @@ export default function Home() {
               
               {/* 인프라 항목 1: 글로벌 네트워크 */}
               <div className="flex gap-6">
-                <div className="text-5xl text-blue-600">🌍</div>
+                <div className="text-5xl text-blue-600">🌏</div>
                 <div>
                   <h4 className="text-xl font-bold mb-2 text-gray-800">글로벌 네트워크 역량</h4>
                   <p className="text-gray-600 leading-relaxed">
@@ -183,7 +183,7 @@ export default function Home() {
                 <div>
                   <h4 className="text-xl font-bold mb-2 text-gray-800">철저한 보안 및 안전 시설</h4>
                   <p className="text-gray-600 leading-relaxed">
-                    550평 규모의 넓은 창고에 Full HD급 CCTV 26대와 24시간 무인 경비시스템을 가동합니다. 30억 화재보험 가입으로 고객의 자산을 끝까지 안전하게 보호합니다.
+                    550평 규모의 넓은 창고에 Full HD급 CCTV 26대와 24시간 무인 경비시스템을 가동하고 있습니다. 30억 화재보험 가입으로 고객의 자산을 끝까지 안전하게 보호합니다.
                   </p>
                 </div>
               </div>
