@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
  * 브라우저 탭에 표시되는 제목(title)과 검색 엔진에 노출될 설명(description)을 정의합니다.
  */
 export const metadata: Metadata = {
-  title: "디엠팩 (Dmpack) - 스마트 물류 솔루션",
+  title: "디엠팩 (DMPACK) - 스마트 물류 솔루션",
   description: "DMPACK, 수출포장 전문기업, 경상북도 구미시 산호대로 230 디엠팩, tel: 054-464-7220, email: dmpack@dmpack.co.kr",
 };
 /*

@@ -172,7 +172,7 @@ export default function Home() {
                 <div>
                   <h4 className="text-xl font-bold mb-2 text-gray-800">특수 포장 인증 전문 인력</h4>
                   <p className="text-gray-600 leading-relaxed">
-                    항공 위험물과 해운 위험물 특수 포장 자격(DGD) 인증을 취득한 다수의 전문 인력을 보유하고 있으며, Wood Packing 전문 협력업체와 함께 까다롭고 위험한 화물도 규정에 맞게 완벽하게 취급합니다.
+                    항공 위험물(IATA DG)과 해운 위험물(IMDG) 특수 포장 자격 인증을 취득한 다수의 전문 인력을 보유하고 있으며, Wood Packing 전문 협력업체와 함께 까다롭고 위험한 화물도 규정에 맞게 완벽하게 취급합니다.
                   </p>
                 </div>
               </div>
@@ -212,7 +212,7 @@ export default function Home() {
       <footer className="bg-gray-900 text-gray-400 py-12 px-6 text-sm">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center md:items-start gap-8">
           <div>
-            <p className="font-bold text-white text-lg mb-4">주식회사 디엠팩 (Dmpack)</p>
+            <p className="font-bold text-white text-lg mb-4">주식회사 디엠팩 (DMPACK)</p>
             <p className="mb-1">대표자: 변광영 | 사업자등록번호: 513-81-87986</p>
             <p className="mb-1">전화: 054-464-7220 | 이메일: dmpack@dmpack.co.kr</p>
             <p className="mb-1">주소: 경상북도 구미시 산호대로 230 A동</p>
