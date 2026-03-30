@@ -8,7 +8,7 @@ import logoImg from "../public/logo.png";
 
 export default function Home() {
   // [업데이트] 세부소개서 PDF 링크 (실제 URL로 교체 필요)
-  const pdfIntroductionUrl = "https://dmpack.co.kr";
+  const pdfIntroductionUrl = "https://dmpackwms.synology.me/img/DMPACK_Profile.pdf";
   return (
     // 전체 페이지를 감싸는 최상위 컨테이너
     // min-h-screen: 화면 전체 높이를 차지하도록 설정
