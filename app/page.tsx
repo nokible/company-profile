@@ -159,7 +159,7 @@ export default function Home() {
               <div className="flex gap-6">
                 <div className="text-5xl text-blue-600">🌏</div>
                 <div>
-                  <h4 className="text-xl font-bold mb-2 text-gray-800">글로벌 네트워크 역량</h4>
+                  <h4 className="text-xl font-bold mb-2 text-gray-800">글로벌 역량</h4>
                   <p className="text-gray-600 leading-relaxed">
                     베트남, 인도, 브라질, 멕시코, 미국, 유럽 등 전 세계 주요 거점으로 향하는 글로벌 수출 포장 노하우를 보유하여, 전 세계 어디든 빠르고 안전하게 연결합니다.
                   </p>
