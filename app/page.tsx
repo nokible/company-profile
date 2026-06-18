@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import Header from "./components/Header";
 import ScrollReveal from "./components/ScrollReveal";
 import CountUp from "./components/CountUp";
@@ -35,8 +36,15 @@ export default function Home() {
       <main className="flex-grow">
 
         {/* Hero / 회사 소개 — nav의 #about 링크 대상 */}
-        <section id="about" className="bg-gradient-to-br from-blue-800 to-blue-600 text-white py-28 px-6 text-center">
-          <div className="max-w-4xl mx-auto">
+        <section id="about" className="relative overflow-hidden bg-gradient-to-br from-gray-800 to-gray-600 text-white py-28 px-6 text-center">
+          <Image
+            src="/waregouse_bg_full.png"
+            alt=""
+            fill
+            className="object-cover opacity-20"
+            priority
+          />
+          <div className="relative z-10 max-w-4xl mx-auto">
             <h1 className="text-4xl md:text-5xl font-extrabold mb-6 leading-tight drop-shadow-md">
               시스템이 검증하는 완벽한 수출 포장, <br className="hidden md:block" />
               디엠팩의 스마트 물류 솔루션
@@ -185,7 +193,7 @@ export default function Home() {
         </section>
 
         {/* 문의 CTA */}
-        <section className="py-24 px-6 bg-blue-700 text-white text-center">
+        <section className="py-24 px-6 bg-gradient-to-r from-blue-700 to-blue-500 text-white text-center">
           <div className="max-w-3xl mx-auto">
             <ScrollReveal>
               <h2 className="text-3xl md:text-4xl font-bold mb-4">Contact Us</h2>
