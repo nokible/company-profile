@@ -66,7 +66,7 @@ export default function Home() {
                 href={pdfIntroductionUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-transparent text-white border-2 border-white px-8 py-4 rounded-full font-bold text-lg hover:bg-white/10 transition inline-block w-full sm:w-auto"
+                className="bg-gradient-to-r from-blue-800 to-blue-700 text-white border-2 border-white px-8 py-4 rounded-full font-bold text-lg hover:bg-white/10 transition inline-block w-full sm:w-auto"
               >
                 세부소개서 다운로드 (PDF)
               </a>
